@@ -1,9 +1,11 @@
 {
-  "hash": "2ced31b8512c1bc732592975b6bdcd76",
+  "hash": "5f07e2a795b2336c3bc4b35382129c9b",
   "result": {
     "engine": "knitr",
-    "markdown": "---\ntitle: \"draft\"\nformat: html\neditor_options: \n  chunk_output_type: console\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n",
-    "supporting": [],
+    "markdown": "---\ntitle: \"draft\"\nformat: html\neditor_options: \n  chunk_output_type: console\n---\n\n::: {.cell}\n\n```{.r .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n\n```{.r .cell-code}\n2+2\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 4\n```\n\n\n:::\n:::\n",
+    "supporting": [
+      "draft_files"
+    ],
     "filters": [
       "rmarkdown/pagebreak.lua"
     ],
