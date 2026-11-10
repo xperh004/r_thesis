@@ -1,0 +1,9 @@
+---
+title: "draft"
+format: html
+editor_options: 
+  chunk_output_type: console
+---
+```{r}
+1+1
+```

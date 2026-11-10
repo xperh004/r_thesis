@@ -1,0 +1,17 @@
+{
+  "hash": "ad78d7f95868938d298330ec8ae34dca",
+  "result": {
+    "engine": "knitr",
+    "markdown": "---\ntitle: \"r_thesis\"\nformat: html\neditor_options: \n  chunk_output_type: console\n---\n\n## Quarto\n\nQuarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.\n\n\n::: {.cell}\n\n```{.r .cell-code}\n1 + 1\n```\n\n::: {.cell-output .cell-output-stdout}\n\n```\n[1] 2\n```\n\n\n:::\n:::\n\n",
+    "supporting": [
+      "r_thesis_files"
+    ],
+    "filters": [
+      "rmarkdown/pagebreak.lua"
+    ],
+    "includes": {},
+    "engineDependencies": {},
+    "preserve": {},
+    "postProcess": true
+  }
+}
